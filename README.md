@@ -63,9 +63,6 @@ VITE_GEMINI_API_KEY=YOUR_API_KEY
 ```bash
 npm run dev
 ```
-![Home Screen](Screenshots/WhatsApp Image 2026-06-10 at 3.28.18 PM.jpeg)
-
-![Chat Demo](./screenshots/chat-demo.png)
 
 ## 🔒 Security
 
